@@ -1,3 +1,6 @@
 [submodule "emulators/dolphin"]
 	path = emulators/dolphin
 	url = https://github.com/dolphin-emu/dolphin
+[submodule "AiroRom"]
+	path = AiroRom
+	url = git@github.com:pleonex/AiroRom.git
