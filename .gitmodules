@@ -4,3 +4,6 @@
 [submodule "AiroRom"]
 	path = AiroRom
 	url = git@github.com:pleonex/AiroRom.git
+[submodule "nds/NitroDebugger"]
+	path = nds/NitroDebugger
+	url = git@github.com:pleonex/NitroDebugger
