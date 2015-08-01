@@ -7,3 +7,6 @@
 [submodule "nds/NitroDebugger"]
 	path = nds/NitroDebugger
 	url = git@github.com:pleonex/NitroDebugger
+[submodule "nds/Ninokuni"]
+	path = nds/Ninokuni
+	url = git@github.com:pleonex/Ninokuni.git
