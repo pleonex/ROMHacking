@@ -10,3 +10,6 @@
 [submodule "nds/Ninokuni"]
 	path = nds/Ninokuni
 	url = git@github.com:pleonex/Ninokuni.git
+[submodule "nds/Tinke"]
+	path = nds/Tinke
+	url = git@github.com:pleonex/Tinke
