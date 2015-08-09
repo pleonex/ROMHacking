@@ -13,3 +13,6 @@
 [submodule "nds/Tinke"]
 	path = nds/Tinke
 	url = git@github.com:pleonex/Tinke
+[submodule "dc/GDIbuilder"]
+	path = dc/GDIbuilder
+	url = https://github.com/Sappharad/GDIbuilder
