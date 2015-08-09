@@ -19,3 +19,6 @@
 [submodule "emulators/ppsspp"]
 	path = emulators/ppsspp
 	url = https://github.com/hrydgard/ppsspp
+[submodule "emulators/jpcsp"]
+	path = emulators/jpcsp
+	url = https://github.com/jpcsp/jpcsp
