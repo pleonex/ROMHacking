@@ -22,3 +22,6 @@
 [submodule "emulators/jpcsp"]
 	path = emulators/jpcsp
 	url = https://github.com/jpcsp/jpcsp
+[submodule "emulators/NitroDebugger"]
+	path = emulators/NitroDebugger
+	url = git@github.com:pleonex/NitroDebugger.git
