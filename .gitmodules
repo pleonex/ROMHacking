@@ -16,3 +16,6 @@
 [submodule "dc/GDIbuilder"]
 	path = dc/GDIbuilder
 	url = https://github.com/Sappharad/GDIbuilder
+[submodule "emulators/ppsspp"]
+	path = emulators/ppsspp
+	url = https://github.com/hrydgard/ppsspp
