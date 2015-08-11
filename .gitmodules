@@ -28,3 +28,6 @@
 [submodule "emulators/radare2"]
 	path = emulators/radare2
 	url = git@github.com:pleonex/radare2
+[submodule "psp/Boku-no-Natsuyasumi"]
+	path = psp/Boku-no-Natsuyasumi
+	url = git@github.com:pleonex/Boku-no-Natsuyasumi
