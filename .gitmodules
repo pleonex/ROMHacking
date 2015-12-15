@@ -28,3 +28,6 @@
 [submodule "psp/Boku-no-Natsuyasumi"]
 	path = psp/Boku-no-Natsuyasumi
 	url = git@github.com:pleonex/Boku-no-Natsuyasumi
+[submodule "courses"]
+	path = courses
+	url = git@github.com:pleonex/romhacking-courses
