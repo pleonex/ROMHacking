@@ -31,3 +31,6 @@
 [submodule "courses"]
 	path = courses
 	url = git@github.com:pleonex/romhacking-courses
+[submodule "gc/Resident-Evil2"]
+	path = gc/Resident-Evil2
+	url = git@github.com:pleonex/Resident-Evil2.git
