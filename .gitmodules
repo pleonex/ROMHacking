@@ -34,3 +34,6 @@
 [submodule "gc/Resident-Evil2"]
 	path = gc/Resident-Evil2
 	url = git@github.com:pleonex/Resident-Evil2.git
+[submodule "nds/NerdFontTerminatoR"]
+	path = nds/NerdFontTerminatoR
+	url = git@github.com:pleonex/NerdFontTerminatoR.git
