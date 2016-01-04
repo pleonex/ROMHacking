@@ -37,3 +37,6 @@
 [submodule "nds/NerdFontTerminatoR"]
 	path = nds/NerdFontTerminatoR
 	url = git@github.com:pleonex/NerdFontTerminatoR.git
+[submodule "nds/NitroFilcher"]
+	path = nds/NitroFilcher
+	url = git@github.com:pleonex/NitroFilcher
