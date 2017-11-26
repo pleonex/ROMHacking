@@ -46,3 +46,6 @@
 [submodule "emulators/pcsx2"]
 	path = emulators/pcsx2
 	url = https://github.com/PCSX2/pcsx2
+[submodule "emulators/desmume"]
+	path = emulators/desmume
+	url = https://github.com/TASVideos/desmume
