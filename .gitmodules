@@ -40,3 +40,6 @@
 [submodule "nds/NitroFilcher"]
 	path = nds/NitroFilcher
 	url = git@github.com:pleonex/NitroFilcher
+[submodule "ps2/persona2"]
+	path = ps2/persona
+	url = https://github.com/pleonex/persona-games
