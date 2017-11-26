@@ -43,3 +43,6 @@
 [submodule "ps2/persona2"]
 	path = ps2/persona
 	url = https://github.com/pleonex/persona-games
+[submodule "emulators/pcsx2"]
+	path = emulators/pcsx2
+	url = https://github.com/PCSX2/pcsx2
