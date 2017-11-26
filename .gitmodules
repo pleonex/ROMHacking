@@ -52,3 +52,6 @@
 [submodule "encoding"]
 	path = docs/encoding
 	url = https://github.com/whatwg/encoding
+[submodule "SceneGate"]
+	path = SceneGate
+	url = git@github.com:SceneGate/SceneGate
